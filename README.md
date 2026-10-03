@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Vladimir
 
-<!--
-**Vladimir-Podgornyi/Vladimir-Podgornyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend and app developer based in Frankfurt am Main, Germany.
 
-Here are some ideas to get you started:
+**What I work on**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[LidAwake](https://github.com/Vladimir-Podgornyi/LidAwake)** — a small open-source menu bar tool for macOS that keeps a Mac running with the lid closed. In development.
+- **Folkly** — a relationship memory and wishlist app (Next.js, Supabase, six locales). Pre-launch.
+- **[erstgebaut.de](https://erstgebaut.de)** — websites for small businesses in Germany (Astro).
+
+**Stack:** TypeScript · React · Next.js · React Native (Expo) · Supabase · Astro
+
+**Contact:** kontakt@erstgebaut.de · [erstgebaut.de](https://erstgebaut.de)
